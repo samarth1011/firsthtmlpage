@@ -6,22 +6,6 @@ This is a template to be used when creating ReadMe files for your Github reposit
 
 ---
 
-### Table of Contents
-You're sections headers will be used to reference location of destination.
-
-- [Landing Page](#landing-page)
-    - [Table of Contents](#table-of-contents)
-  - [Description](#description)
-      - [Technologies](#technologies)
-  - [## Before you build this site](#h2-idbefore-you-build-this-site-144before-you-build-this-siteh2)
-    - [1.Get the prerequisites](#1get-the-prerequisites)
-    - [2. Clone this repository](#2-clone-this-repository)
-  - [`git clone https://github.com/kwikpic-in/landing-page.git](#git-clone-httpsgithubcomkwikpic-inlanding-pagegit)
-    - [3. Start Server](#3-start-server)
-  - [License](#license)
-  - [Author Info](#author-info)
-
----
 
 ## Description
 
@@ -68,13 +52,13 @@ GitHub help on [Cloning a repository][], and _choose one_ of the following
 submodule-cloning techniques:
 
 - Clone this repo by folloing command : <br>
-  `git clone https://github.com/kwikpic-in/landing-page.git
+  `git clone https://github.com/kwikpic-in/landing-page.git`
 ---
 
 ### 3. Start Server
 
 Start the server on command line with following command:<br>
-'python -m http.server
+`python -m http.server`
 
 ---
 

@@ -11,10 +11,9 @@ This is a template to be used when creating ReadMe files for your Github reposit
   - [Table of Content](#table-of-content)
   - [Description](#description)
       - [Technologies](#technologies)
-  - [## Before you build this site](#h2-idbefore-you-build-this-site-272before-you-build-this-siteh2)
+  - [## Before you build this site](#h2-idbefore-you-build-this-site-322before-you-build-this-siteh2)
     - [1.Get the prerequisites](#1get-the-prerequisites)
     - [2. Clone this repository](#2-clone-this-repository)
-  - [`git clone https://github.com/kwikpic-in/landing-page.git`](#git-clone-httpsgithubcomkwikpic-inlanding-pagegit)
     - [3. Start Server](#3-start-server)
   - [License](#license)
   - [Author Info](#author-info)
@@ -31,7 +30,7 @@ Creating ReadMe's for your Github repository can be tedious.  I hope this templa
 - JavaScript
 - Json
 
-[Back To The Top](#landing-page)
+<!-- [Back To The Top](#landing-page) -->
 
 ---
 
@@ -54,17 +53,16 @@ Install the following tools if you don't have them already.
 
 
 
-[Back To The Top](#landing-page)
+<!-- [Back To The Top](#landing-page) -->
 
 ---
 
 ### 2. Clone this repository
 
-To **clone [this repo][]**, follow the instructions given in the
-GitHub help on [Cloning a repository][],and then
-
-- Clone this repo by folloing command : <br>
+To **clone [this repo][]**, follow the instructions given in the GitHub help on [Cloning a repository][],and then
+clone this repo by folloing command : <br>
   `git clone https://github.com/kwikpic-in/landing-page.git`
+
 ---
 
 ### 3. Start Server
@@ -90,7 +88,7 @@ furnished to do so, subject to the following conditions:
 
 
 
-[Back To The Top](#landing-page)
+<!-- [Back To The Top](#landing-page) -->
 
 ---
 
